@@ -1,0 +1,11 @@
+{
+  "name": "jsp-typescript-sample",
+  "version": "1.0.0",
+  "description": "Client-side scripts for JSP sample app",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es5", "es2015.promise", "dom"],
+    "module": "commonjs",
+    "outDir": "src/main/webapp/js",
+    "rootDir": "ts",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
