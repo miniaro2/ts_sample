@@ -1,4 +1,5 @@
 # TypeScript + JSP 샘플 프로젝트
+  황상범(miniaron@empal.com)
 
 ## 📋 프로젝트 개요
 
